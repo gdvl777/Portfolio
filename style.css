@@ -1,44 +1,5 @@
-/* header background shape-desktop */
-
-
-position: absolute;
-width: 1440px;
-height: 916px;
-left: 0px;
-top: 1px;
-
-/* Neutrals/N0 */
-
-background: #FFFFFF;
-
-
-/* Header */
-
-
-position: absolute;
-width: 1440px;
-height: 846px;
-left: 0px;
-top: 71px;
-
-
-
-/* Header bg */
-
-
-position: absolute;
-width: 1397.4px;
-height: 721.46px;
-left: 34.6px;
-top: 119px;
-
-
-
-/* Top Naviagation */
-
-
-position: absolute;
-width: 1440px;
-height: 72px;
-left: 0px;
-top: 0px;
+.header {
+  background-color: blue;
+  color: white;
+  padding: 1rem;
+}
