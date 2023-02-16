@@ -1,6 +1,6 @@
-# github-flow
+# Portfolio - Microveerse
 
-Brief description of the project.
+This is a practice of how to manage HTML & CSS with flex and [Figma] (#https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=39%3A122&t=YcVPSSQG4DlSdCvk-0) based. 
 
 ## Table of Contents
 
