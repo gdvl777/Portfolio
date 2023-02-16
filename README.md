@@ -26,14 +26,13 @@ Run the command below from the Terminal:
 - GitHub: [@gdvl777](https://github.com/gdvl777)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/dvillalba777//)  
 
-## Usage
 
-Instructions on how to use the project.
+## 🤝 Contributing
 
-## Contributing
+Contributions, issues, and feature requests are welcome!
 
-Instructions on how to contribute to the project.
+Feel free to check the [issues page](../../issues/).
 
 ## License
 
-The license for the project.
+Free
