@@ -54,8 +54,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Portfolio] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Portfolio]** is a simple page based on the example template of figma
 
 ## 🛠 Built With <a name="built-with"></a>
