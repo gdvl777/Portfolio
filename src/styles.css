@@ -61,18 +61,21 @@ header {
 header .logo {
   position: relative;
   top: 39px;
-  width: 109px;
+  width: 76px;
   height: 20px;
-  font-family: Poppins, serif;
+  font-family: Poppins;
   font-style: normal;
   font-weight: 700;
-  font-size: 28px;
+  font-size: 18px;
   line-height: 20px;
   display: flex;
   align-items: center;
   text-align: center;
-  color: rgb(96, 112, 255);
+  color: #6070FF;
   text-decoration: none;
+  flex:none;
+  order:0;
+  flex-grow:0;
 }
 
 header .enabled {
@@ -95,7 +98,7 @@ section {
 section .container {
   background-image: url();
   position: relative;
-  height: 718px;
+  height: 580px;
   width: 375px;
   background-repeat: no-repeat;
   border-bottom-left-radius: 2px;
@@ -107,7 +110,7 @@ section .container {
 section .container h2 {
   width: 327px;
   height: 150px;
-  font-family: 'Poppins', serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
