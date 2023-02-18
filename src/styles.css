@@ -63,7 +63,7 @@ header .logo {
   top: 39px;
   width: 76px;
   height: 20px;
-  font-family: Poppins;
+  font-family: Poppins, serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -73,9 +73,9 @@ header .logo {
   text-align: center;
   color: #6070FF;
   text-decoration: none;
-  flex:none;
-  order:0;
-  flex-grow:0;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
 header .enabled {
