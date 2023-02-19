@@ -79,13 +79,13 @@ header .logo {
 }
 
 header .enabled {
-  height: 20px;
+  height: 40px;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   padding: 8px;
   position: absolute;
-  top: 29px;
+  top: 19px;
   border-radius: 8px;
 }
 
