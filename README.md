@@ -96,9 +96,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo" href="https://gdvl777.github.io/"></a>
+## 🚀 Live Demo <a name="live-demo" href="#"></a>
 
-- <a name="live-demo" href="https://gdvl777.github.io/">Live Demo</a>
+- <a name="live-demo" href="#">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
