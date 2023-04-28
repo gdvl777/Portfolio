@@ -32,7 +32,7 @@ After you're finished please remove all the comments and instructions!
   
   <br/>
 
-  <h3><b>Portfolio Template</b></h3>
+  <h3><b>Portfolio Desktop Version</b></h3>
 
 </div>
 
@@ -43,11 +43,20 @@ After you're finished please remove all the comments and instructions!
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -68,21 +77,45 @@ After you're finished please remove all the comments and instructions!
 	<ul>
     <li>CSS</li>
   </ul>
+	<ul>
+    <li>Javascript</li>
+  </ul>
   <ul>
     <li>linters</li>
   </ul>
 </details>
+<!-- Features -->
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
+### Key Features <a name="key-features"></a>
 
-<!-- GETTING STARTED -->
+- **Add HTML file**
+
+- **Add CSS file**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo" href="https://gdvl777.github.io/"></a>
+
+- <a name="live-demo" href="https://gdvl777.github.io/">Live Demo</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
+> To get a local copy up and running, follow these steps.
+
+
+### Prerequisites
+
+In order to run this project you need:In order to run this project you need:
+◦ Installation of Git
+◦ Installation of NPM
+◦ A working browser
+◦ Internet connection
+◦ A code editor like Visual Studio Code
+◦ Installation of Live Server plugging in Visual Studio Code
 
 Please get your browser update.
 To get a local copy up and running follow these simple steps.
@@ -110,23 +143,28 @@ Run the command below from the Terminal:
 
 <!-- FUTURE FEATURES -->
 
+## 🔭 Future Features <a name="future-features"></a>
+
+Features coming soon
+
+- **Live Demo on GitHub**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/gdvl777/Portfolio/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, let me know. Follow me and I'll follow you!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,10 +172,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank to MICROVERSE
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,6 +181,6 @@ I would like to thank to MICROVERSE
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
