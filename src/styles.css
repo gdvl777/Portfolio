@@ -107,7 +107,7 @@ section .container {
   flex-direction: column;
 }
 
-section .container h2 {
+section .container h1 {
   width: 327px;
   height: 150px;
   font-family: 'Poppins', serif;
@@ -124,6 +124,22 @@ section .container h2 {
   position: relative;
   margin: 15px;
   top: 34px;
+}
+
+.intro2 {
+  color: #7f8cff;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: flex-start;
+  padding-left: 0px;
+  padding-top: 35px;
+  grid-gap: 30px;
+  justify-items: center;
+  margin-left: 3%;
 }
 
 section .container p:first-of-type {
