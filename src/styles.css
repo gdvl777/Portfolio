@@ -91,7 +91,7 @@ header .enabled {
 
 section {
   background-image: url("../assets/header-shapes\ mobile.png");
-  background-repeat: not-repeat;
+  background-repeat: repeat-x;
   width: 100%;
 }
 
@@ -123,6 +123,7 @@ section .container h1 {
   flex-grow: 0;
   position: relative;
   margin: 15px;
+  margin-top: 43px;
   top: 34px;
 }
 
@@ -135,10 +136,10 @@ section .container h1 {
   line-height: 24px;
   display: flex;
   align-items: flex-start;
-  padding-top: 35px;
+  padding-top: 13px;
   grid-gap: 30px;
   justify-items: center;
-  margin-left: 3%;
+  margin-left: 6%;
 }
 
 section .container p:first-of-type {
@@ -179,7 +180,7 @@ section ul {
   flex: 0 0 auto;
   order: 3;
   position: relative;
-  left: -35px;
+  left: 9px;
   margin: 15px;
   top: 0;
 }
@@ -190,7 +191,7 @@ section .media {
 }
 
 section .media li {
-  padding-right: 14px;
+  padding-right: 18px;
   size: 10px;
 }
 
